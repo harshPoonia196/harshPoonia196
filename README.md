@@ -1,4 +1,4 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Satweek Gohel
+<!-- Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Satweek Gohel
 =====================================================================================================================================
 
 Web Developer and Designer
@@ -46,4 +46,4 @@ I'm a passionate computer engineer based in India, specializing in front-end and
 
 <li style="display: inline-block; margin-right: 0.25rem;"><a href="https://www.ko-fi.com/satweekgohel"><img src="https://storage.ko-fi.com/cdn/kofi2.png?v=3" width="150"/></a></li>
 
-</ul>
+</ul> -->
