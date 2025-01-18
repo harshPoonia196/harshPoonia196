@@ -21,6 +21,11 @@ I'm a MERN stack developer passionate about coding and problem-solving. I'm alwa
 - LinkedIn: [Your LinkedIn Profile](#)
 - Twitter: [Your Twitter Profile](#)
 
+## GitHub Stats
+- **Longest Streak**: [Number of Days] days
+- **Current Streak**: [Number of Days] days
+- **Most Used Language**: [Language Name]
+
 ## How to Use This Repository
 - Clone any repository to your local machine:
   ```bash
@@ -47,4 +52,3 @@ To make this README visible on your GitHub profile:
 - Pin your favorite repositories to your GitHub profile for more visibility.
 - Add a profile picture and bio in your GitHub settings to personalize your page.
 
-# harshpoonia196
