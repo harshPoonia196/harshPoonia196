@@ -1,4 +1,4 @@
-# Welcome to My GitHub Page
+<!-- # Welcome to My GitHub Page
 
 ## Overview
 Hello! Welcome to my GitHub page. Here you'll find various projects I've worked on, showcasing my skills in web development, particularly with the MERN (MongoDB, Express, React, Node.js) stack. I aim to create clean, scalable, and user-friendly applications.
@@ -51,4 +51,4 @@ To make this README visible on your GitHub profile:
 ### Additional Tips
 - Pin your favorite repositories to your GitHub profile for more visibility.
 - Add a profile picture and bio in your GitHub settings to personalize your page.
-
+ -->
